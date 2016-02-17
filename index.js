@@ -14,10 +14,8 @@ document.addEventListener('readystatechange',function(){
  var yinyueku=[
 	{name:'有点甜',src:'sweet.mp3',geshou:'汪苏泷',duration:'3:55'},
 	{name:'st',src:'1.mp3',geshou:'王俊凯',duration:'4:14'},
-	{name:'不能说的秘密',src:'3.mp3',geshou:'周杰伦',duration:'4:56'},
-	{name:'4',src:'sweet.mp3',geshou:'汪苏泷',duration:'3:55'},
-	{name:'5',src:'1.mp3',geshou:'王俊凯',duration:'4:14'},
-	{name:'6',src:'3.mp3',geshou:'周杰伦',duration:'4:56'}
+	{name:'不能说的秘密',src:'3.mp3',geshou:'周杰伦',duration:'4:56'}
+ 
  ]
 //没有歌曲的时候的状态
 var uireset=function(){
